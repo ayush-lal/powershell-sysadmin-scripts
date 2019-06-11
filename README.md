@@ -17,5 +17,5 @@ Each script has its down documentation in the form of comments which has been in
 **Ayush Lal** - *All scripts were built from the ground up.* 
 
 // If you have any queries please feel free to get in touch: 
-[Portfolio Website](www.ayushlal.com.au) -
+[Portfolio Website](http://www.ayushlal.com.au) -
 [GitHub](https://github.com/ayush-lal)
