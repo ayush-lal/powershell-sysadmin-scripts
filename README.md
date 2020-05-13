@@ -1,5 +1,5 @@
 # PowerShell Scripts for Sys Admins
-This repoisitory contains a bunch of useful PowerShell scripts that i use on the daily basis as an Sys Admin. 
+This repository contains a bunch of useful PowerShell scripts that I used on a daily basis as an Sys Admin. 
 
 ## Getting Started
 
@@ -7,9 +7,9 @@ This repoisitory contains a bunch of useful PowerShell scripts that i use on the
 Only requirements of using these scripts is to have a Windows machine that has powershell installed (which is 99% of the time).
 
 ### Installing and Usage
-Each script has its down documentation in the form of comments which has been included within the scripts as well. I recommended opening the scripts up in PowerShell ISE, VS Code or any other script editor to read through the comments and make further changes/amendments before execution. 
+Each script has its down documentation in the form of comments which has been included within the scripts. I recommended opening the scripts up in PowerShell ISE, VS Code or any other script editor to read through the comments and make further changes before execution. 
 
-// *Please note that you might need to make slight modifications to the script in order for it to work in your work environment/site.* 
+*// Please note that you might need to make slight modifications to the script in order for it to work in your work environment/site.* 
 
 ---
 
